@@ -1,0 +1,36 @@
+# Visual Studio / .NET
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+Debug/
+Release/
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# EF Core / local tooling
+efpt.config.json
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# User-specific / local secrets
+appsettings.Development.json
+*.env
+">
